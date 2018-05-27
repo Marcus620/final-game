@@ -1,4 +1,3 @@
-print("hello")
 names = {
 'jaden' : "Is awesome",
 'marcus' : "I have a slow car",
@@ -10,5 +9,5 @@ if name in names.keys():
     print("My name is", name, "and", names[name])
 else:
     print("Sorry I dont know you :/")
+print("is this working?")
  
-print("hey")
