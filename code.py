@@ -1,3 +1,4 @@
+print("hello")
 names = {
 'jaden' : "Is awesome",
 'marcus' : "I have a slow car",
