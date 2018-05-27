@@ -1,5 +1,5 @@
 names = {
-'jaden' : "Is awesome",
+'jaden' : "I am awesome",
 'marcus' : "I have a slow car",
 'jesse' : "I like eating jaden's snacks",
 'michael' : "I can burp"
