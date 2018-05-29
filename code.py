@@ -2,7 +2,7 @@ names = {
 'jaden' : "I am awesome",
 'marcus' : "I have a slow car",
 'jesse' : "I like eating jaden's snacks",
-'michael' : "I can burp"
+'michael' : "I can easily build and take apart computers"
 }
 print("Jaden's Code!:")
 name = input("Enter name:" )
@@ -31,3 +31,5 @@ while should_continue:
 	else:
 		continue
 ignore1 = input("")
+
+part("Part 3: Michael!")
